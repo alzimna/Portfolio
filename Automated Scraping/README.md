@@ -12,4 +12,4 @@ setiap perusahaan yang ingin saya ambil datanya.
 # Crawling Tweet
 Salah satu projek yang telah saya lakukan adalah prediksi harga saham dengan melihat analisis sentimen suatu perusahaan yang
 terkena seruan boikot. Untuk mendapatkan data sentimen perusahaan tersebut di twitter, saya memanfaatkan tweet harvest yang dikembangkan oleh Helmi Satria 
-(lihat https://helmisatria.com/blog/updated-crawl-data-twitter-x-maret-2024).
+(lebih lanjut lihat https://helmisatria.com/blog/updated-crawl-data-twitter-x-maret-2024).
